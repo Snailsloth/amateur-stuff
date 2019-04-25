@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.5" height="37.5" viewBox="0 0 9.922 9.922">
+  <defs>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#31fffe"/>
+      <stop offset="1" stop-color="#ff57ff"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#00d3fe"/>
+      <stop offset="1" stop-color="#00d3fe" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#9d9e9e"/>
+      <stop offset="1" stop-color="#9d9e9e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="d" x1="309.253" x2="645.153" y1="241.646" y2="-81.889" gradientTransform="matrix(.67568 0 0 .67568 134.365 47.646)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  </defs>
+  <path fill="url(#d)" stroke-width="3.537" d="M428.336 43.93a84.254 84.254 0 0 0-84.254 84.254 84.254 84.254 0 0 0 84.254 84.254 84.254 84.254 0 0 0 84.254-84.254 84.254 84.254 0 0 0-84.254-84.254zm56.928 41.641l-53.216 75.567-18.253-7.182-9.725 13.805-6.03-20.257-25.09-9.648z" paint-order="fill markers stroke" transform="translate(-20.26 -2.587) scale(.05888)"/>
+</svg>
